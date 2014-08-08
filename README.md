@@ -2,8 +2,7 @@ Aptitude
 ========
 
 Aptitude is a super-simple theme for one-page articles and projects.
-
-![Screenshot](http://s1.postimg.org/6tkm2pe3i/aptitude.jpg "")
+![Screenshot](https://cloud.githubusercontent.com/assets/2841780/3857456/7b836d9a-1f03-11e4-8578-e16a7d263a9d.jpg "Screenshot")
 
 Usage
 =====
