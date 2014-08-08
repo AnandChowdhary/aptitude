@@ -14,7 +14,9 @@ Add these three CSS files to your head:
 
 Then, follow the structure in the demo.html file and create your page.
 
-Finally, make a Typekit kit with *Adobe Garamond Pro* and *Calluna Sans* and its code before your body ends.
+Finally, make a Typekit kit with *Adobe Garamond Pro* and *Calluna Sans* and add its code before your body ends.
+
+Alternatively, download demo.html and go crazy.
 
 Credits
 =======
