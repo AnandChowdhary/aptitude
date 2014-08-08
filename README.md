@@ -3,6 +3,8 @@ Aptitude
 
 Aptitude is a super-simple theme for one-page articles and projects.
 
+![Screenshot](http://s1.postimg.org/6tkm2pe3i/aptitude.jpg)
+
 Usage
 =====
 
