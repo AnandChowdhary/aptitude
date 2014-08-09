@@ -25,7 +25,19 @@ Tips
 
 For a custom accent color, replace "#e44249" in aptitude.css, or, if you're using the CDN, replace X with your accent color and add the following to your head:
 
-`<style>a:hover,h1.title{color:X}a:focus{background:X}blockquote{border-color:X}</style>`
+```
+<style type="text/css">
+  a:hover, h1.title {
+    color: X
+  }
+  a:focus {
+    background: X
+  }
+  blockquote {
+    border-color: X
+  }
+</style>
+```
 
 Credits
 =======
