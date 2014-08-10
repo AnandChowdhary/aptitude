@@ -39,7 +39,16 @@ For a custom accent color, replace "#e44249" in aptitude.css, or, if you're usin
 </style>
 ```
 
-Too add more websites to "Share" links, add a new link with a Font Awesome icon of that website, like `<a target="_blank" href="//facebook.com/anand.chowdhary"><i class="fa fa-facebook-square"></i></a>` in `.half` in the footer.
+Too add more websites to "Share" links, add a new link with a Font Awesome icon of that website in the footer:
+
+```
+<div class="half share">
+  <p><h3>Connect
+    <a target="_blank" href="//facebook.com/anand.chowdhary"><i class="fa fa-facebook-square"></i></a>
+    <a target="_blank" href="mailto:anandchowdhary@gmail.com"><i class="fa fa-mail"></i></a>
+  </h3></p>
+</div>
+```
 
 Credits
 =======
