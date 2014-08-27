@@ -44,6 +44,12 @@ header {
 	max-width: 90%;
 }
 
+.grid img {
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .grid-seventy {
 	max-width: 90%;
 	width: 720px;
