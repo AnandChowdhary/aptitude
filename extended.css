@@ -13,13 +13,13 @@ a {
 	transition: color 0.2s;
 }
 a:hover {
-	color: #e44249;
+	color: #4183c4;
 }
 
 a:focus {
 	outline: none;
 	color: #fff;
-	background: #e44249;
+	background: #4183c4;
 }
 
 ::selection {
